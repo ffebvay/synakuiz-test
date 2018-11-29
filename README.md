@@ -13,7 +13,7 @@ npm run serve
 ### Watch the magic happen
 ```
 1. Open your favorite web browser
-2. Write down in the address bar the following : __localhost:8080__
+2. Write down in the address bar the following : `localhost:8080`
 3. You're all set, have fun with your uncomplete app !
 ```
 
